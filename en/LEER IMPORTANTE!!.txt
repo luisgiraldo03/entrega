@@ -1,0 +1,11 @@
+Nombre de usuario: luis
+contraseña: 123
+
+Ajunto ejecutable y documentacion
+
+La documentacion esta en la carpeta dist dentro del proyecto
+
+Luis Eduardo Giraldo
+grupo 032
+
+
